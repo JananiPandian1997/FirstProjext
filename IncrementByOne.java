@@ -2,15 +2,10 @@ package strings;
 
 public class IncrementByOne {
 	public static void main(String[]args) {
-		int  num = 4;
-		for(int i =0; 0>=num; i++) 0
-				System.out.println(i);
+		int  num = 9;
+		for(int i =0; i<=num; i=i+2) {
+			System.out.println(i);
 				
 			}
-		}
-		
-		
-		
-	}
-
+}
 }
